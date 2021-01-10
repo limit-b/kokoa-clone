@@ -18,12 +18,12 @@
 .friends-screen__channel {
   padding-top: 14px;
   margin-top: 20px;
-  border-top: 1px solid rgba(0, 0, 0, 0.2);
+  border-top: var(--main-border);
 }
 
 .friends-screen__channel-header {
   display: flex;
   margin-bottom: 22px;
   justify-content: space-between;
-  color: rgba(0, 0, 0, 0.5);
+  color: var(--rgba-foint-five);
 }
