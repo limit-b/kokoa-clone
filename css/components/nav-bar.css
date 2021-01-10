@@ -22,23 +22,4 @@
   position: absolute;
   bottom: 15px;
   left: 15px;
-  display: flex;
-  width: 24px;
-  height: 24px;
-  justify-content: center;
-  align-items: center;
-  font-weight: 600;
-  color: white;
-  background-color: tomato;
-  border-radius: 12px;
-}
-
-.nav__dot {
-  position: absolute;
-  bottom: 28px;
-  left: 32px;
-  width: 6px;
-  height: 6px;
-  background-color: tomato;
-  border-radius: 3px;
 }
