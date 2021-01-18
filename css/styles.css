@@ -9,7 +9,7 @@
 @import "components/user-component.css";
 @import "components/notice.css";
 @import "components/icon-row.css";
-@import "components/no-mobile.css";
+@import "components/no-mobile-portrait.css";
 
 /* Screens */
 @import "screens/login.css";
