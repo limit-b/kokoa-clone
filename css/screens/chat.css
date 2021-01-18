@@ -197,7 +197,7 @@
   opacity: 0;
 }
 
-.reply-form:focus-within input {
+.reply-form input:focus {
   width: 91vw;
   transform: translateX(-12%);
 }

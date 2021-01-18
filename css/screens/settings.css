@@ -12,6 +12,6 @@
   font-size: 22px;
 }
 
-.settings__setting-column:last-child {
+.settings__setting-column:last-child span {
   color: var(--rgba-foint-five);
 }

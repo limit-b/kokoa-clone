@@ -11,15 +11,15 @@
   width: 33.33%;
 }
 
-.alt-header__column:first-child {
+.alt-header .alt-header__column:first-child {
   margin-right: auto;
 }
 
-.alt-header__column:nth-child(2) {
+.alt-header .alt-header__column:nth-child(2) {
   text-align: center;
 }
 
-.alt-header__column:last-child {
+.alt-header .alt-header__column:last-child {
   display: flex;
   margin-left: auto;
   justify-content: flex-end;

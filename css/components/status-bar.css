@@ -18,12 +18,12 @@
   margin-right: 5px;
 }
 
-.status-bar__column:nth-child(2) {
+.status-bar .status-bar__column:nth-child(2) {
   display: flex;
   justify-content: center;
 }
 
-.status-bar__column:last-child {
+.status-bar .status-bar__column:last-child {
   display: flex;
   justify-content: flex-end;
   align-items: center;
