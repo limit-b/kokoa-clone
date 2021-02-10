@@ -49,8 +49,13 @@
   color: var(--rgba-foint-five);
 }
 
+.user-component__column--chats {
+  width: 50px;
+}
+
 .user-component__time {
   display: block;
+  /* height: 16px; */
   margin-bottom: 10px;
 }
 
